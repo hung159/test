@@ -1,0 +1,5 @@
+body { font-family: system-ui, sans-serif; max-width: 720px; margin: 24px auto; padding: 0 16px; }
+.card { border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; }
+input, select, button { padding: 8px; margin: 4px 4px 4px 0; font-size: 16px; }
+button { background: #2e7d32; color: #fff; border: 0; border-radius: 6px; cursor: pointer; }
+.err { color: #c62828; }
